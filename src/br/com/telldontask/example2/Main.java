@@ -3,7 +3,7 @@ package br.com.telldontask.example2;
 public class Main {
 	
 	/** 
-	 * Example two implements.
+	 * Example two implements..
 	 * 
 	 * */
 
