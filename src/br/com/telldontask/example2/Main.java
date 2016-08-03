@@ -1,6 +1,11 @@
 package br.com.telldontask.example2;
 
 public class Main {
+	
+	/** 
+	 * Example two implements
+	 * 
+	 * */
 
 	public static void main(String[] args) {
 		
