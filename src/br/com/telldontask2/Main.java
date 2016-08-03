@@ -1,4 +1,4 @@
-package br.com.telldontask.example2;
+package br.com.telldontask2;
 
 public class Main {
 	
